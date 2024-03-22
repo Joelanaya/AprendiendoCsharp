@@ -1,0 +1,14 @@
+C:\Users\Personal\Desktop\Curso C#\string_y_sus_metodos\bin\Debug\net8.0\string_y_sus_metodos.exe
+C:\Users\Personal\Desktop\Curso C#\string_y_sus_metodos\bin\Debug\net8.0\string_y_sus_metodos.deps.json
+C:\Users\Personal\Desktop\Curso C#\string_y_sus_metodos\bin\Debug\net8.0\string_y_sus_metodos.runtimeconfig.json
+C:\Users\Personal\Desktop\Curso C#\string_y_sus_metodos\bin\Debug\net8.0\string_y_sus_metodos.dll
+C:\Users\Personal\Desktop\Curso C#\string_y_sus_metodos\bin\Debug\net8.0\string_y_sus_metodos.pdb
+C:\Users\Personal\Desktop\Curso C#\string_y_sus_metodos\obj\Debug\net8.0\string_y_sus_metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Desktop\Curso C#\string_y_sus_metodos\obj\Debug\net8.0\string_y_sus_metodos.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\Curso C#\string_y_sus_metodos\obj\Debug\net8.0\string_y_sus_metodos.AssemblyInfo.cs
+C:\Users\Personal\Desktop\Curso C#\string_y_sus_metodos\obj\Debug\net8.0\string_y_sus_metodos.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\Curso C#\string_y_sus_metodos\obj\Debug\net8.0\string_y_sus_metodos.dll
+C:\Users\Personal\Desktop\Curso C#\string_y_sus_metodos\obj\Debug\net8.0\refint\string_y_sus_metodos.dll
+C:\Users\Personal\Desktop\Curso C#\string_y_sus_metodos\obj\Debug\net8.0\string_y_sus_metodos.pdb
+C:\Users\Personal\Desktop\Curso C#\string_y_sus_metodos\obj\Debug\net8.0\string_y_sus_metodos.genruntimeconfig.cache
+C:\Users\Personal\Desktop\Curso C#\string_y_sus_metodos\obj\Debug\net8.0\ref\string_y_sus_metodos.dll
